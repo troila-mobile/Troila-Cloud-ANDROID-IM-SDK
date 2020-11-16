@@ -1,2 +1,2 @@
-# Troila-Cloud-ANDROID-IM-SDK
+# Troila-Cloud-Android-IM-SDK
 TroilaCloud IM SDK for android
